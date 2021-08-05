@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/demo1.css"/>
+	</head>
+	<body>
+		<!-- 手机模块基本结构 -->
+		<a href="" class="img-item">
+			<div class="img-ph">
+				<img src="img/mi.webp" class="ph-item">
+			</div>
+			<h3 class="img-title"> Note 10 Pro</h3>
+			<p class="img-info">天玑1100年度旗舰芯，VC液冷散热</p>
+			<p class="price">
+				<span class="new-price">1599元起</span>
+				<span class="old-price">1699</span>
+			</p>
+			
+		</a>	
+	</body>
+</html>
